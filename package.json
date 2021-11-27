@@ -1,0 +1,17 @@
+{
+  "name": "code-commit-cloner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "shelljs": "^0.8.4"
+  }
+}
